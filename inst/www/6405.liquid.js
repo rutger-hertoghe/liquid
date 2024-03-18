@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjs=self.webpackChunkjs||[]).push([[6405],{6405:(s,e,l)=>{l.r(e),l.d(e,{ld_tabpanel:()=>a});var t=l(8815);const a=class{constructor(s){(0,t.r)(this,s)}render(){return(0,t.h)(t.H,{role:"tabpanel",class:"ld-tabpanel",tabindex:"-1"},(0,t.h)("slot",null))}};a.style=""}}]);

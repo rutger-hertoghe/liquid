@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjs=self.webpackChunkjs||[]).push([[8275],{8275:(t,e,s)=>{s.r(e),s.d(e,{ld_option:()=>n});var l=s(8815);const n=class{constructor(t){(0,l.r)(this,t),this.hidden=!1}componentWillLoad(){this.selected&&this.el.setAttribute("selected","")}render(){return(0,l.h)(l.H,{class:"ld-option"},(0,l.h)("slot",null))}get el(){return(0,l.g)(this)}};n.style=""}}]);
